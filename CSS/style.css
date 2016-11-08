@@ -1,0 +1,40 @@
+.wrapper{
+    width: 800px;
+    margin: 0 auto;
+}
+.container{
+    border: thin solid black;
+    position: relative;
+    padding: 1%;
+    margin: 3%;
+}
+.title{
+    font-weight: bold;
+    position: absolute;
+    display: block;
+    top: -25px;
+    background-color: #fff;
+    padding:0 2px 0 2px;
+    line-height: 15px;
+    margin-left: 20px;
+
+}
+.taitelbod{
+    font-weight: bold;
+}
+.status{
+    margin: 0;
+}
+.kursiv {
+    font-style: italic;
+    font-size: 11pt;
+    display: block;
+    line-height: 5px;
+    padding:0 2px 0 2px;
+}
+.inp{
+    display: block;
+    position: absolute;
+    left:300px;
+    margin: 0;
+}
